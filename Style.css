@@ -1,11 +1,11 @@
 body {
   font-family: italic;
-  background-color: rgba(210, 210, 77, 0.3);
+  background-color: rgba(235, 235, 141, 0.3);
   font-size: 20px;
 }
 
 h1 {
-  font-size: 55px;
+  font-size: 70px;
   text-decoration: underline;
   background-color: rgba(221, 111, 51, 0.229);
 }
@@ -20,10 +20,12 @@ H3 {
 
 p {
   background-color: rgba(221, 111, 51, 0.229);
+  text-align: center;
+  font-size: 28px;
 }
 
 ol {
-  margin-left: 20px;
+  margin-left: 10px;
 }
 div {
   font-weight: bolder;
@@ -33,11 +35,33 @@ div {
 
 table {
   font-size: 30px;
+  text-align: center;
   margin-left: auto;
   margin-right: auto;
   border-color: purple;
   background-color: rgba(255, 217, 0, 0.582);
 }
-/*#shoes {
-  margin-left: 50px;
-}*/
+.PNG {
+  margin-left: 360px;
+  background-color: rgba(133, 53, 133, 0.449);
+}
+.PNG2 {
+  margin-left: 360px;
+  background-color: rgba(99, 235, 122, 0.449);
+}
+.PNG3 {
+  margin-left: 360px;
+  background-color: rgba(212, 159, 80, 0.449);
+}
+.PNG4 {
+  margin-left: 360px;
+  background-color: rgba(104, 219, 211, 0.449);
+}
+.PNG5 {
+  margin-left: 360px;
+  background-color: rgba(225, 92, 143, 0.449);
+}
+
+#shoes {
+  border-style: groove;
+}
